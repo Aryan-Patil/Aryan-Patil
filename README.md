@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data structures and Testing.**
 
-- 👨‍💻 All of my projects are available at [aryanpatil.me](aryanpatil.me)
+<!-- - 👨‍💻 All of my projects are available at <a href="https://aryanpatil.me" target="blank">aryanpatil.me</a> -->
 
 - 💬 Ask me about **React.js**
 
