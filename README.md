@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Patil</h1>
+<h1 align="center">Hi there<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="40" />, I'm Aryan Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **improving Backend debveloping skills and gaining knowledge about testing.**
