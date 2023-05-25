@@ -1,9 +1,9 @@
 <h1 align="center">Hi there<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="40" />, I'm Aryan Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **improving Backend debveloping skills and gaining knowledge about testing.**
+- 🔭 I’m currently working on **improving Backend debveloping skills and gaining knowledge about Software testing.**
 
-- 🌱 I’m currently learning **Data structures and Testing.**
+- 🌱 I’m currently learning **Data structures and Software Testing.**
 
 <!-- - 👨‍💻 All of my projects are available at <a href="https://aryanpatil.me" target="blank">aryanpatil.me</a> -->
 
